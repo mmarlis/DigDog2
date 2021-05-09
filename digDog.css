@@ -1,0 +1,74 @@
+
+#progress {
+    min-width: 400px;
+    height: 25px;
+    margin: 8px;
+    display: block;
+    alignment: center;
+    height: 60px;
+    
+    
+
+}
+
+
+span{
+    background-color: #915118;
+    background-image: url("greenGrass.jpg");
+    background-size: cover;
+    border: 1px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+}
+
+#container{
+    background-image: url(https://media.giphy.com/media/ZdqwKjYsi0vpEn3OI4/giphy.gif);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-color: darkgreen;
+    padding-top: 40px;
+
+}
+
+/*body{*/
+
+/*     background-color: darkgreen;*/
+
+/*}*/
+
+
+span.foundBone{
+    background-image: url("boneImage.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: center;
+
+}
+/*//new stuff*/
+.dirt{
+    background-image: url("dirt.jpg");
+}
+
+#output{
+    display: block;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Grandstander', cursive;
+    color: saddlebrown;
+    font-size: 80px;
+
+}
+
+#board{
+    text-align: center;
+}
+
+#board span{
+    margin: 5px;
+}
+
+
